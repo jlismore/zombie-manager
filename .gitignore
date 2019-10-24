@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# vscode settings
+.vscode
+
+# mac
+.DS_Store
+
+# generated schema files
+/src/generated
